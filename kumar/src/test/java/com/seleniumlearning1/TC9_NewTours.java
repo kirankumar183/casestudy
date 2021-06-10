@@ -1,4 +1,4 @@
-package com.seleniumlearning;
+package com.seleniumlearning1;
 
 import java.util.concurrent.TimeUnit;
 

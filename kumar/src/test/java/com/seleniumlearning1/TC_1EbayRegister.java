@@ -1,11 +1,11 @@
-package com.seleniumlearning;
+package com.seleniumlearning1;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 import com.qa.pages.Ebay_pages;
 
-public class TC_EbayRegister {
+public class TC_1EbayRegister {
 
 	public static void main(String[] args) throws InterruptedException {
 		 //1.open the browser

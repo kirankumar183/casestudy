@@ -1,4 +1,4 @@
-package com.seleniumlearning;
+package com.seleniumlearning1;
 
 import java.util.List;
 
@@ -9,7 +9,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import com.qa.pages.GoogleSearchpages;
 
-public class TC_Googlesearch {
+public class TC_4bGooglesearch {
 
 	public static void main(String[] args) throws InterruptedException {
 		

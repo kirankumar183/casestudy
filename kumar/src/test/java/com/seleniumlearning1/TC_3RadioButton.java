@@ -1,11 +1,11 @@
-package com.seleniumlearning;
+package com.seleniumlearning1;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 import com.qa.pages.RadioButtonPages;
 
-public class TC_RadioButton {
+public class TC_3RadioButton {
 
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
